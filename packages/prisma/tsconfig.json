@@ -1,0 +1,7 @@
+{
+    "extends": "@poc/ts-config/base.json",
+    "compilerOptions": {
+        "module": "ESNext",
+        "moduleResolution": "Node"
+    }
+}

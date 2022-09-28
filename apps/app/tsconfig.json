@@ -1,0 +1,4 @@
+{
+    "extends": "@poc/ts-config/base.json",
+    "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+}
